@@ -1,0 +1,8 @@
+[{"id": 0, "value": 10, "parent": -1, "left":1, "right":2},
+{"id": 1, "value": 8, "parent": 0, "left":-1, "right":6},
+{"id": 2, "value": 7, "parent": 0, "left":7, "right":3},
+{"id": 3, "value": 5, "parent": 2, "left":4, "right":5},
+{"id": 4, "value": 15, "parent": 3, "left":-1, "right":-1},
+{"id": 5, "value": 1, "parent": 3, "left":-1, "right":-1},
+{"id": 6, "value": 6, "parent": 1, "left":-1, "right":-1},
+{"id": 7, "value": 38, "parent": 2, "left":-1, "right":-1}]
